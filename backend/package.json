@@ -6,11 +6,7 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
   "type": "module",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "backend": "file:",
     "bcryptjs": "^2.4.3",
